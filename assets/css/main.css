@@ -1090,8 +1090,8 @@ header {
 /*====home two banner start====*/
 .home_two_banner_wrapper {
   background-color: #2a295b;
-  padding-top: 160px;
-  padding-bottom: 105px; }
+  padding-top: 10px;
+  padding-bottom: 145px; }
   .home_two_banner_wrapper .container .home_banner_row .col-lg-5 {
     margin-top: 30px;
     margin-bottom: 30px; }
@@ -7812,7 +7812,7 @@ footer {
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center top;
-    padding-bottom: 167px; }
+    padding-bottom: 227px; }
 
   .player_search_wrapper {
     background-color: transparent;
@@ -8262,7 +8262,7 @@ footer {
       padding-top: 95px; }
 
   .home_two_banner_wrapper {
-    padding-top: 80px; }
+    padding-top: 8px; }
     .home_two_banner_wrapper .container .home_banner_row .col-lg-7 {
       display: block;
       margin-top: 40px; }
@@ -8619,7 +8619,7 @@ footer {
       padding: 20px 12px; }
 
   .home_two_banner_wrapper {
-    padding-top: 63px;
+    padding-top: 6px;
     padding-bottom: 80px; }
     .home_two_banner_wrapper .container .home_banner_row .col-lg-5 .inner #videoModal .modal-dialog .modal-content .modal-body iframe {
       width: 100%;
